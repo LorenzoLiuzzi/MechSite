@@ -1,14 +1,16 @@
 
 ## Indice
-1. [Descrizione](#descrizione)
-2. [Tecnologie](#tecnologie)
-3. [Collaboration](#collaboration)
-4. [FAQs](#faqs)
-
+1. [Status del progetto](#status-del-progetto)
+2. [Descrizione](#descrizione)
+3. [Documentazione](#documentazione)
+4. [Tecnologie usate](#tecnologie-usate)
+5. [Architettura](#architettura)
+6. [Funzionamento](#funzionamento)
+7. [Struttura del progetto](#struttura-del-progetto)
+8. [Licenze](#licenze)
 ### Status del progetto
 ***
 ### MECH SITE
-***
 ### Descrizione
 ***
 MechSite è una piattaforma...
