@@ -15,8 +15,3 @@ A list of technologies used within the project:
 * [Flask](https://example.com): Version
 * [Linode](https://example.com): Version
 * [...](https://example.com): Version
-
-
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
