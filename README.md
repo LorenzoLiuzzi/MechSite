@@ -44,8 +44,25 @@ La piattaforma è divisa in due sezioni principali:
 
 # Lato Amministrativo
 ***
-All'interno della parte dedicata a
+All'interno della parte amministrativa saranno disponibili le seguenti funzionalità:
+* Aggunta nuovi clienti
+* Aggiunta nuovi mezzi
+* Aggiunta nuovi interventi
+* Visualizzazione di una bacheca che contiene tutti i clienti, i mezzi e gli interventi
+* Visualizzazione di una pagina che contiene tutte gli inteventi in corso nel quale è possibile terminare gli interventi
+* Possibilità di modificare i dati relativi ai clienti presenti
+* Possibilità di modificare i dati relativi ai mezzi presenti
+* Possibilità di modificare gli interventi
 
+# Aggunta nuovi clienti
+
+# Aggiunta nuovi mezzi
+# Aggiunta nuovi interventi
+# Visualizzazione di una bacheca che contiene tutti i clienti, i mezzi e gli interventi
+# Visualizzazione di una pagina che contiene tutte gli inteventi in corso nel quale è possibile terminare gli interventi
+# Possibilità di modificare i dati relativi ai clienti presenti
+# Possibilità di modificare i dati relativi ai mezzi presenti
+# Possibilità di modificare gli interventi
 
 # Lato Cliente
 ***
