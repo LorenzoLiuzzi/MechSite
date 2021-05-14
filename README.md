@@ -65,7 +65,7 @@ Per l'aggiunta di un nuovo mezzo all'interno del database sarà necessario speci
 Il codice fiscale a differenza degli altri dati non sarà da inserire scrivendolo, ma sarà selezionabile da una lista di codici fiscali già esistenti.
 Se il codice fiscale del proprietario non fosse presente sarà possibile selezionare la voce apposita che reindirizzerà alla sezione dedicata per aggiungerlo.
 
-*gif
+*gif*
 
 #### Aggiunta nuovi interventi
 Per l'aggiunta di un nuovo intervento sarà necessario specificare oltre alle informazioni dell'intervento anche la targa del mezzo su cui dovrà essere effettuato l'intervento.
@@ -73,7 +73,7 @@ Per l'aggiunta di un nuovo intervento sarà necessario specificare oltre alle in
 Anche in questo caso, la targa del mezzo, a differenza degli altri dati non sarà da inserire scrivendola, ma sarà selezionabile da una lista di targhe già esistenti.
 Se la targa del mezzo non fosse presente sarà possibile selezionare la voce apposita che reindirizzerà alla sezione dedicata per aggiungerla.
 
-*gif
+*gif*
 
 #### Visualizzazione di una bacheca che contiene tutti i clienti, i mezzi e gli interventi
 #### Visualizzazione di una pagina che contiene tutte gli inteventi in corso nel quale è possibile terminare gli interventi
@@ -88,11 +88,11 @@ Esse saranno limitate al visualizzare le proprie riparazioni e i propri mezzi e 
 
 Al primo accesso alla piattaforma utilizzando la mail fornita in precedenza al personale dell'officina sarà richiesto la creazione e l'inserimento di una password che sarà utilizzata poi per tutti gli accessi seguenti.
 
-*gif
+*gif*
 
 Questa password sarà poi modificabie all'interno dell'area dedicata alla modifica del profilo
 
-*gif
+*gif*
 
 ## Architettura
 
