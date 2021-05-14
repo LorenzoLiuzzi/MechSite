@@ -58,7 +58,7 @@ All'interno della parte amministrativa saranno disponibili le seguenti funzional
 #### Aggunta nuovi clienti
 All'arrivo di un nuovo cliente l'amministratore potrà utilizzare i dati forniti da quest'ultimo per poterlo inserire all'interno del database.
 
-*screenshot
+*screenshot*
 
 #### Aggiunta nuovi mezzi
 Per l'aggiunta di un nuovo mezzo all'interno del database sarà necessario specificare oltre alle informazioni del mezzo inserire anche il codice fiscale del proprietario del mezzo.
