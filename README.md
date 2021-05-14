@@ -36,13 +36,29 @@ A list of technologies used within the project:
 * [Html](https://html.com): Version 5
 * [CSS](https://www.css.com): Version 3
 * [JavaScript](https://www.javascript.com): Version 	ECMAScript 2018
-### Funzionamento
+### Funzionalità della piattaforma
 ***
-Il corretto funzionamento della piattaforma permette ad essa di far visualizzare all'utente 
-# Lato Meccanico
+La piattaforma è divisa in due sezioni principali:
+* Lato Amministrativo
+* Lato Cliente
+
+# Lato Amministrativo
 ***
+All'interno della parte dedicata a
+
+
 # Lato Cliente
 ***
+All'interno della parte dedicata al cliente le funzionalità saranno diverse.
+Esse saranno limitate al visualizzare le proprie riparazioni e i propri mezzi e alla modifica dei propri dati personali con i quali si esegue l'accesso alla piattaforma.
+
+Al primo accesso alla piattaforma utilizzando la mail fornita in precedenza al personale dell'officina sarà richiesto la creazione e l'inserimento di una password che sarà utilizzata poi per tutti gli accessi seguenti.
+
+gif
+
+Questa password sarà poi modificabie all'interno dell'area dedicata alla modifica del profilo
+
+gif
 
 ### Architettura
 ***
