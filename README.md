@@ -1,4 +1,5 @@
 # MECH SITE
+*immagine del logo*
 ## Descrizione
 
 MechSite è una piattaforma sviluppata per l'ausilio del meccanico, il quale avrà una semplificazione nella gestione del lavoro e dell'organizzazione.
