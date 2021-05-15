@@ -52,9 +52,7 @@ All'interno della parte amministrativa saranno disponibili le seguenti funzional
 * Aggiunta nuovi interventi
 * Visualizzazione di una bacheca che contiene tutti i clienti, i mezzi e gli interventi
 * Visualizzazione di una pagina che contiene tutte gli inteventi in corso nel quale è possibile terminare gli interventi
-* Possibilità di modificare i dati relativi ai clienti presenti
-* Possibilità di modificare i dati relativi ai mezzi presenti
-* Possibilità di modificare gli interventi
+* Possibilità di modificare i dati relativi ai clienti, ai mezzi e agli interventi
 
 #### Aggunta nuovi clienti
 All'arrivo di un nuovo cliente l'amministratore potrà utilizzare i dati forniti da quest'ultimo per poterlo inserire all'interno del database.
@@ -77,10 +75,18 @@ Se la targa del mezzo non fosse presente sarà possibile selezionare la voce app
 *gif*
 
 #### Visualizzazione di una bacheca che contiene tutti i clienti, i mezzi e gli interventi
+Al personale amministrativo sarà possibile visualizzare in un unica pagina tutti i clienti, i mezzi e gli interventi registrati.
+Sarà anche possibile una ricerca di elementi tramite il codice fiscale del proprietario o tramite la targa di un mezzo, e verranno mostrati tutti i veicoli e le riparazioni di quel codice fiscale, oppure se viene ricercato un veicolo verranno mostrati il proprietario e le riparazioni in corso su esso e anche quelle già terminate.
+
+*gif*
+
 #### Visualizzazione di una pagina che contiene tutte gli inteventi in corso nel quale è possibile terminare gli interventi
-#### Possibilità di modificare i dati relativi ai clienti presenti
-#### Possibilità di modificare i dati relativi ai mezzi presenti
-#### Possibilità di modificare gli interventi
+#### Possibilità di modificare i dati relativi ai clienti, ai mezzi e agli interventi
+Il personale amministrativo potrà anche modificare i dati relativi ai clienti, a mezzi e agli interventi che sono già stati inseriti e quindi che sono già presenti.
+Queste operazioni saranno disponibili nella pagina gestionale.
+
+*gif*
+
 
 ### Lato Cliente
 
