@@ -101,9 +101,9 @@ Al primo accesso alla piattaforma utilizzando la mail fornita in precedenza al p
 
 <img src="primo-accesso.gif" width="600">
 
-Questa password sarà poi modificabie all'interno dell'area dedicata alla modifica del profilo
+Questa password sarà poi modificabie all'interno dell'area dedicata alla modifica del profilo, dove saranno modificabili dall'utente anche i contatti email e numero di telefono.
 
-*gif*
+<img src="modifica-mail.gif" width="700">
 
 ## Architettura
 
