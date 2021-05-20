@@ -64,7 +64,7 @@ Per l'aggiunta di un nuovo mezzo all'interno del database sarà necessario speci
 Il codice fiscale a differenza degli altri dati non sarà da inserire scrivendolo, ma sarà selezionabile da una lista di codici fiscali già esistenti.
 Se il codice fiscale del proprietario non fosse presente sarà possibile selezionare la voce apposita che reindirizzerà alla sezione dedicata per aggiungerlo.
 
-*gif*
+<img src="nuovo-cliente.gif" width="700">
 
 #### Aggiunta nuovi interventi
 Per l'aggiunta di un nuovo intervento sarà necessario specificare oltre alle informazioni dell'intervento anche la targa del mezzo su cui dovrà essere effettuato l'intervento.
