@@ -57,7 +57,7 @@ All'interno della parte amministrativa saranno disponibili le seguenti funzional
 #### Aggunta nuovi clienti
 All'arrivo di un nuovo cliente l'amministratore potrà utilizzare i dati forniti da quest'ultimo per poterlo inserire all'interno del database.
 
-*screenshot*
+![image](https://user-images.githubusercontent.com/79509842/119057204-5aa28780-b9cc-11eb-98e6-56e9a38df3ea.png)
 
 #### Aggiunta nuovi mezzi
 Per l'aggiunta di un nuovo mezzo all'interno del database sarà necessario specificare oltre alle informazioni del mezzo inserire anche il codice fiscale del proprietario del mezzo.
@@ -72,13 +72,12 @@ Per l'aggiunta di un nuovo intervento sarà necessario specificare oltre alle in
 Anche in questo caso, la targa del mezzo, a differenza degli altri dati non sarà da inserire scrivendola, ma sarà selezionabile da una lista di targhe già esistenti.
 Se la targa del mezzo non fosse presente sarà possibile selezionare la voce apposita che reindirizzerà alla sezione dedicata per aggiungerla.
 
-*gif*
 
 #### Visualizzazione di una bacheca che contiene tutti i clienti, i mezzi e gli interventi
 Al personale amministrativo sarà possibile visualizzare in un unica pagina tutti i clienti, i mezzi e gli interventi registrati.
 Sarà anche possibile una ricerca di elementi tramite il codice fiscale del proprietario o tramite la targa di un mezzo, e verranno mostrati tutti i veicoli e le riparazioni di quel codice fiscale, oppure se viene ricercato un veicolo verranno mostrati il proprietario e le riparazioni in corso su esso e anche quelle già terminate.
 
-*gif*
+<img src="cerca-cf.gif" width="600">
 
 #### Visualizzazione di una pagina che contiene tutte gli inteventi in corso nel quale è possibile terminare gli interventi
 In questa sezione verranno visualizzati tutti gli interventi in corso e sarà possibile terminare un intervento facendo si che il cliente venga informato di ciò tramite un email.
@@ -100,7 +99,7 @@ Esse saranno limitate al visualizzare le proprie riparazioni e i propri mezzi e 
 
 Al primo accesso alla piattaforma utilizzando la mail fornita in precedenza al personale dell'officina sarà richiesto la creazione e l'inserimento di una password che sarà utilizzata poi per tutti gli accessi seguenti.
 
-*gif*
+<img src="primo-accesso.gif" width="600">
 
 Questa password sarà poi modificabie all'interno dell'area dedicata alla modifica del profilo
 
@@ -111,6 +110,7 @@ Questa password sarà poi modificabie all'interno dell'area dedicata alla modifi
 Qui si parla della macchina Linode
 
 ## Struttura del progetto
+Qui va presentata la struttura delle repository nelle quali si trovano i sorgenti del progetto, le immagini, le gif, il readme ecc..
 
 ## Licenza
 
