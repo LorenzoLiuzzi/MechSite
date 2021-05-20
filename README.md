@@ -81,6 +81,11 @@ Sarà anche possibile una ricerca di elementi tramite il codice fiscale del prop
 *gif*
 
 #### Visualizzazione di una pagina che contiene tutte gli inteventi in corso nel quale è possibile terminare gli interventi
+In questa sezione verranno visualizzati tutti gli interventi in corso e sarà possibile terminare un intervento facendo si che il cliente venga informato di ciò tramite un email.
+La pagina presenta una lista di interventi e aprendone uno sarà possibile decidere di terminarlo.
+
+<img src="termina-rip.gif" width="600">
+
 #### Possibilità di modificare i dati relativi ai clienti, ai mezzi e agli interventi
 Il personale amministrativo potrà anche modificare i dati relativi ai clienti, a mezzi e agli interventi che sono già stati inseriti e quindi che sono già presenti.
 Queste operazioni saranno disponibili nella pagina gestionale.
