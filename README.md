@@ -14,23 +14,22 @@ La piattaforma permette inoltre di faar visualizzare a quet'ultimo una sezione d
 7. [Struttura del progetto](#struttura-del-progetto)
 8. [Licenze](#licenze)
 ## Status del progetto
-
+In fase di completamento
 
 ## Documentazione
 
+* File Readme.md
+* 
 *
 *
-*
-*
-*
-*
+
 ## Tecnologie usate
 
-* [Flask](https://flask.palletsprojects.com/en/1.1.x): Version
-* [Bootstrap](https://getbootstrap.com): Version
-* [SQLAlchemy](https://www.sqlalchemy.org): Version
-* [Git](https://git-scm.com): Version
-* 
+* [Flask](https://flask.palletsprojects.com/en/1.1.x): Version 1.?
+* [Bootstrap](https://getbootstrap.com): Version 5.0
+* [SQLAlchemy](https://www.sqlalchemy.org): Version 1.4
+* [Git](https://git-scm.com): Version 2.31.1
+
 ## Linguaggi
 
 * [Python](https://www.python.org): Version 3.8.6
