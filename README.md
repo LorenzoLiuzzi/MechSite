@@ -90,7 +90,7 @@ La pagina presenta una lista di interventi e aprendone uno sarà possibile decid
 Il personale amministrativo potrà anche modificare i dati relativi ai clienti, a mezzi e agli interventi che sono già stati inseriti e quindi che sono già presenti.
 Queste operazioni saranno disponibili nella pagina gestionale.
 
-*gif*
+<img src="modifica-rip.gif" width="600">
 
 
 ### Lato Cliente
