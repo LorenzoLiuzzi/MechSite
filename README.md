@@ -118,12 +118,12 @@ Qui va presentata la struttura delle repository nelle quali si trovano i sorgent
 MIT License
 
 ### Autori e copyright
-| First Header  | Second Header |
+| Autori(in ordine alfabetico)  | Contatto di posta elettronica |
 | ------------- | ------------- |
-| Aldegheri Alessandro  | Content Cell |
-| Cremonini Davide  | Content Cell |
-| Liuzzi Lorenzo  | Content Cell |
-| Venturi Davide  | Content Cell |
+| Aldegheri Alessandro  | xxx@gmail.com |
+| Cremonini Davide  | davide.cremonini.14@gmail.com |
+| Liuzzi Lorenzo  | lorenzoliuzzi02@gmail.com |
+| Venturi Davide  | xxx@gmail.com |
 
 ### Licenze software dei componenti di terzi parti
 
