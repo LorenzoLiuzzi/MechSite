@@ -21,8 +21,8 @@ In fase di completamento
 
 * File Readme.md
 * 
-*
-*
+* 
+* 
 
 ## Tecnologie usate
 
@@ -107,10 +107,10 @@ Questa password sarà poi modificabie all'interno dell'area dedicata alla modifi
 
 ## Architettura
 
-Qui si parla della macchina Linode
+(Qui si parla della macchina Linode)
 
 ## Struttura del progetto
-Qui va presentata la struttura delle repository nelle quali si trovano i sorgenti del progetto, le immagini, le gif, il readme ecc..
+(Qui va presentata la struttura delle repository nelle quali si trovano i sorgenti del progetto, le immagini, le gif, il readme ecc..)
 
 ## Licenza
 
