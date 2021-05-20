@@ -115,8 +115,16 @@ Qui va presentata la struttura delle repository nelle quali si trovano i sorgent
 ## Licenza
 
 ### Licenza generale
+MIT License
 
 ### Autori e copyright
+First Header  | Second Header
+------------- | -------------
+Aldegheri Alessandro  | Content Cell
+Cremonini Davide  | Content Cell
+Liuzzi Lorenzo  | Content Cell
+Venturi Davide  | Content Cell
 
 ### Licenze software dei componenti di terzi parti
 
+(non so se è realmente necessario metterle, potremmo toglierle volendo)
