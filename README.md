@@ -77,19 +77,19 @@ Se la targa del mezzo non fosse presente sarà possibile selezionare la voce app
 Al personale amministrativo sarà possibile visualizzare in un unica pagina tutti i clienti, i mezzi e gli interventi registrati.
 Sarà anche possibile una ricerca di elementi tramite il codice fiscale del proprietario o tramite la targa di un mezzo, e verranno mostrati tutti i veicoli e le riparazioni di quel codice fiscale, oppure se viene ricercato un veicolo verranno mostrati il proprietario e le riparazioni in corso su esso e anche quelle già terminate.
 
-<img src="cerca-cf.gif" width="600">
+<img src="cerca-cf.gif" width="700">
 
 #### Visualizzazione di una pagina che contiene tutte gli inteventi in corso nel quale è possibile terminare gli interventi
 In questa sezione verranno visualizzati tutti gli interventi in corso e sarà possibile terminare un intervento facendo si che il cliente venga informato di ciò tramite un email.
 La pagina presenta una lista di interventi e aprendone uno sarà possibile decidere di terminarlo.
 
-<img src="termina-rip.gif" width="600">
+<img src="termina-rip.gif" width="700">
 
 #### Possibilità di modificare i dati relativi ai clienti, ai mezzi e agli interventi
 Il personale amministrativo potrà anche modificare i dati relativi ai clienti, a mezzi e agli interventi che sono già stati inseriti e quindi che sono già presenti.
 Queste operazioni saranno disponibili nella pagina gestionale.
 
-<img src="modifica-rip.gif" width="600">
+<img src="modifica-rip.gif" width="700">
 
 
 ### Lato Cliente
@@ -99,7 +99,7 @@ Esse saranno limitate al visualizzare le proprie riparazioni e i propri mezzi e 
 
 Al primo accesso alla piattaforma utilizzando la mail fornita in precedenza al personale dell'officina sarà richiesto la creazione e l'inserimento di una password che sarà utilizzata poi per tutti gli accessi seguenti.
 
-<img src="primo-accesso.gif" width="600">
+<img src="primo-accesso.gif" width="700">
 
 Questa password sarà poi modificabie all'interno dell'area dedicata alla modifica del profilo, dove saranno modificabili dall'utente anche i contatti email e numero di telefono.
 
