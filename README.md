@@ -7,14 +7,14 @@ MechSite è una piattaforma sviluppata per l'ausilio del meccanico, il quale avr
 La piattaforma permette inoltre di faar visualizzare a quet'ultimo una sezione denominata "Bacheca" la quale permetterà la visualizzazione delle riparazioni effettuate in precedenza, provviste di Nome cliente, Targa del mezzo e data di quando è stata effettuata.
 ## Index
 - [English](#English)
-    1. [Status del progetto](#status-del-progetto)
-    2. [Descrizione](#descrizione)
-    3. [Documentazione](#documentazione)
-    4. [Tecnologie usate](#tecnologie-usate)
-    5. [Architettura](#architettura)
-    6. [Funzionamento](#funzionamento)
-    7. [Struttura del progetto](#struttura-del-progetto)
-    8. [Licenze](#licenze)
+    - [Status del progetto](#status-del-progetto)
+    - [Descrizione](#descrizione)
+    - [Documentazione](#documentazione)
+    - [Tecnologie usate](#tecnologie-usate)
+    - [Architettura](#architettura)
+    - [Funzionamento](#funzionamento)
+    - [Struttura del progetto](#struttura-del-progetto)
+    - [Licenze](#licenze)
   
 - [Italiano](#Italiano)
   1. [Status del progetto](#status-del-progetto)
