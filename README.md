@@ -6,7 +6,7 @@
   - [Project Status](#project-status)
   - [Description](#description)
   - [Documentation](#documenttion)
-  - [Technlogies used](#technologie-used)
+  - [Technlogies](#technologie)
   - [Lenguages](#lenguages)
   - [Architecture](#architecture)
   - [Functionality](#functionality)
@@ -17,10 +17,10 @@
   - [Status del progetto](#status-del-progetto)
   - [Descrizione](#descrizione)
   - [Documentazione](#documentazione)
-  - [Tecnologie usate](#tecnologie-usate)
+  - [Tecnologie](#tecnologie)
   - [Linguaggi](#linguaggi)
   - [Architettura](#architettura)
-  - [Funzionalità](#funzionalità)
+  - [Funzionalità](#funzionalità-della-piattaforma)
   - [Struttura del progetto](#struttura-del-progetto)
   - [Licenze](#licenze)
 
@@ -30,13 +30,34 @@
 
 MechSite is...
 
+## Documentation
+* Readme.md file
+* Gantt chart
+* 
+* 
+
+## Technologies
+* [Flask](https://flask.palletsprojects.com/en/1.1.x): Version 1.?
+* [Bootstrap](https://getbootstrap.com): Version 5.0
+* [SQLAlchemy](https://www.sqlalchemy.org): Version 1.4
+* [Git](https://git-scm.com): Version 2.31.1
+
+## Lenguages
+* [Python](https://www.python.org): Version 3.8.6
+* [Html](https://html.com): Version 5
+* [CSS](https://www.css.com): Version 3
+* [JavaScript](https://www.javascript.com): Version ECMAScript 2018
+
+## Architecture
+
+(Linode)
+
 ...
 
 ## Italiano
 
 ## Status del progetto
 In fase di completamento
-
 
 ## Descrizione
 MechSite è una piattaforma sviluppata per l'ausilio del meccanico, il quale avrà una semplificazione nella gestione del lavoro e dell'organizzazione.
@@ -49,7 +70,7 @@ La piattaforma permette inoltre di faar visualizzare a quet'ultimo una sezione d
 * 
 * 
 
-## Tecnologie usate
+## Tecnologie
 
 * [Flask](https://flask.palletsprojects.com/en/1.1.x): Version 1.?
 * [Bootstrap](https://getbootstrap.com): Version 5.0
@@ -61,7 +82,11 @@ La piattaforma permette inoltre di faar visualizzare a quet'ultimo una sezione d
 * [Python](https://www.python.org): Version 3.8.6
 * [Html](https://html.com): Version 5
 * [CSS](https://www.css.com): Version 3
-* [JavaScript](https://www.javascript.com): Version 	ECMAScript 2018
+* [JavaScript](https://www.javascript.com): Version ECMAScript 2018
+
+## Architettura
+
+(Qui si parla della macchina Linode)
 
 ## Funzionalità della piattaforma
 
@@ -129,10 +154,6 @@ Al primo accesso alla piattaforma utilizzando la mail fornita in precedenza al p
 Questa password sarà poi modificabie all'interno dell'area dedicata alla modifica del profilo, dove saranno modificabili dall'utente anche i contatti email e numero di telefono.
 
 <img src="modifica-mail.gif" width="700">
-
-## Architettura
-
-(Qui si parla della macchina Linode)
 
 ## Struttura del progetto
 (Qui va presentata la struttura delle repository nelle quali si trovano i sorgenti del progetto, le immagini, le gif, il readme ecc..)
