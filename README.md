@@ -17,14 +17,14 @@ La piattaforma permette inoltre di faar visualizzare a quet'ultimo una sezione d
     - [Licenze](#licenze)
   
 - [Italiano](#Italiano)
-  1. [Status del progetto](#status-del-progetto)
-  2. [Descrizione](#descrizione)
-  3. [Documentazione](#documentazione)
-  4. [Tecnologie usate](#tecnologie-usate)
-  5. [Architettura](#architettura)
-  6. [Funzionamento](#funzionamento)
-  7. [Struttura del progetto](#struttura-del-progetto)
-  8. [Licenze](#licenze)
+  - [Status del progetto](#status-del-progetto)
+    - [Descrizione](#descrizione)
+    - [Documentazione](#documentazione)
+    - [Tecnologie usate](#tecnologie-usate)
+    - [Architettura](#architettura)
+    - [Funzionamento](#funzionamento)
+    - [Struttura del progetto](#struttura-del-progetto)
+    - [Licenze](#licenze)
 ## Status del progetto
 In fase di completamento
 
