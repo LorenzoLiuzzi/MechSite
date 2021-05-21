@@ -1,10 +1,14 @@
 # MechSite
 <img src="logo.png" width="200">
 
-## Descrizione (ITA)
+## Description
+##English
+MechSite is...
 
+##Italiano
 MechSite è una piattaforma sviluppata per l'ausilio del meccanico, il quale avrà una semplificazione nella gestione del lavoro e dell'organizzazione.
 La piattaforma permette inoltre di faar visualizzare a quet'ultimo una sezione denominata "Bacheca" la quale permetterà la visualizzazione delle riparazioni effettuate in precedenza, provviste di Nome cliente, Targa del mezzo e data di quando è stata effettuata.
+
 ## Index
 - [English](#English)
   - [Status del progetto](#status-del-progetto)
