@@ -177,7 +177,3 @@ MIT License
 | Cremonini Davide  | 18213@studenti.marconiverona.edu.it |
 | Liuzzi Lorenzo  | 00000@studenti.marconiverona.edu.it |
 | Venturi Davide  | 00000@studenti.marconiverona.edu.it |
-
-### Licenze software dei componenti di terzi parti
-
-(non so se è realmente necessario metterle, potremmo toglierle volendo)
