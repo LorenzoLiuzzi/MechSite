@@ -24,7 +24,7 @@
   - [Struttura del progetto](#struttura-del-progetto)
   - [Licenze](#licenze)
 
-## English <img src="eng.png">
+## English <img src="eng.png"  height="25">
 
 ## Description
 
