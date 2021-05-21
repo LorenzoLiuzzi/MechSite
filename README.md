@@ -5,7 +5,7 @@
 - [English](#English)
   - [Project Status](#project-status)
   - [Description](#description)
-  - [Documentation](#documenttion)
+  - [Documentation](#documentaion)
   - [Technlogies](#technologie)
   - [Lenguages](#lenguages)
   - [Architecture](#architecture)
@@ -25,6 +25,9 @@
   - [Licenze](#licenze)
 
 ## English <img src="eng.png"  height="25">
+
+## Project Status
+...
 
 ## Description
 
