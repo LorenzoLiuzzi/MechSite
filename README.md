@@ -52,7 +52,15 @@ MechSite is...
 
 (Linode)
 
+## Functionality
 ...
+
+## Project structure
+(repo)
+
+## Licenza
+
+<br><br><br>
 
 ## Italiano
 
