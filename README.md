@@ -33,7 +33,7 @@ MechSite is...
 ## Documentation
 * Readme.md file
 * Gantt chart
-* 
+* RACI table
 * 
 
 ## Technologies
@@ -67,7 +67,7 @@ La piattaforma permette inoltre di faar visualizzare a quet'ultimo una sezione d
 
 * File Readme.md
 * Diagramma di Gantt
-* 
+* Tabella RACI
 * 
 
 ## Tecnologie
@@ -141,7 +141,6 @@ Queste operazioni saranno disponibili nella pagina gestionale.
 
 <img src="modifica-rip.gif" width="700">
 
-
 ### Lato Cliente
 
 All'interno della parte dedicata al cliente le funzionalità saranno diverse.
@@ -166,10 +165,10 @@ MIT License
 ### Autori e copyright
 | Autori(in ordine alfabetico)  | Contatto di posta elettronica |
 | ------------- | ------------- |
-| Aldegheri Alessandro  | xxx@gmail.com |
-| Cremonini Davide  | davide.cremonini.14@gmail.com |
-| Liuzzi Lorenzo  | lorenzoliuzzi02@gmail.com |
-| Venturi Davide  | xxx@gmail.com |
+| Aldegheri Alessandro  | 00000@studenti.marconiverona.edu.it |
+| Cremonini Davide  | 18213@studenti.marconiverona.edu.it |
+| Liuzzi Lorenzo  | 00000@studenti.marconiverona.edu.it |
+| Venturi Davide  | 00000@studenti.marconiverona.edu.it |
 
 ### Licenze software dei componenti di terzi parti
 
