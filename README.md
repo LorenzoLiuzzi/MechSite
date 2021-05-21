@@ -24,7 +24,7 @@
   - [Struttura del progetto](#struttura-del-progetto)
   - [Licenze](#licenze)
 
-## English <img src="eng.png" height="30">
+## English <img src="eng.png" height="25">
 
 ## Description
 
@@ -62,7 +62,7 @@ MechSite is...
 
 <br><br><br>
 
-## Italiano <img src="ita.png" height="30">
+## Italiano <img src="ita.png" height="25">
 
 ## Status del progetto
 In fase di completamento
