@@ -11,31 +11,40 @@ La piattaforma permette inoltre di faar visualizzare a quet'ultimo una sezione d
 
 ## Index
 - [English](#English)
-  - [Status del progetto](#status-del-progetto)
-  - [Descrizione](#descrizione)
-  - [Documentazione](#documentazione)
-  - [Tecnologie usate](#tecnologie-usate)
-  - [Architettura](#architettura)
-  - [Funzionamento](#funzionamento)
-  - [Struttura del progetto](#struttura-del-progetto)
-  - [Licenze](#licenze)
+  - [Project Status](#project-status)
+  - [Description](#description)
+  - [Documentation](#documenttion)
+  - [Technlogies used](#technologie-used)
+  - [Lenguages](#lenguages)
+  - [Architecture](#architecture)
+  - [Functionality](#functionality)
+  - [Project Structure](#project-structure)
+  - [Licence](#licence)
   
 - [Italiano](#Italiano)
   - [Status del progetto](#status-del-progetto)
   - [Descrizione](#descrizione)
   - [Documentazione](#documentazione)
   - [Tecnologie usate](#tecnologie-usate)
+  - [Linguaggi](#linguaggi)
   - [Architettura](#architettura)
-  - [Funzionamento](#funzionamento)
+  - [Funzionalità](#funzionalità)
   - [Struttura del progetto](#struttura-del-progetto)
   - [Licenze](#licenze)
+
+## English
+
+...
+
+## Italiano
+
 ## Status del progetto
 In fase di completamento
 
 ## Documentazione
 
 * File Readme.md
-* 
+* Diagramma di Gantt
 * 
 * 
 
