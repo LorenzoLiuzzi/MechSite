@@ -176,7 +176,7 @@ MIT License
 ### Autori e copyright
 | Autori(in ordine alfabetico)  | Contatto di posta elettronica |
 | ------------- | ------------- |
-| Aldegheri Alessandro  | 00000@studenti.marconiverona.edu.it |
+| Aldegheri Alessandro  | 18134@studenti.marconiverona.edu.it |
 | Cremonini Davide  | 18213@studenti.marconiverona.edu.it |
-| Liuzzi Lorenzo  | 00000@studenti.marconiverona.edu.it |
-| Venturi Davide  | 00000@studenti.marconiverona.edu.it |
+| Liuzzi Lorenzo  | 18298@studenti.marconiverona.edu.it |
+| Venturi Davide  | 18438@studenti.marconiverona.edu.it |
