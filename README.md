@@ -1,19 +1,30 @@
 # MechSite
 <img src="logo.png" width="200">
 
-## Descrizione
+## Descrizione (ITA)
 
 MechSite è una piattaforma sviluppata per l'ausilio del meccanico, il quale avrà una semplificazione nella gestione del lavoro e dell'organizzazione.
 La piattaforma permette inoltre di faar visualizzare a quet'ultimo una sezione denominata "Bacheca" la quale permetterà la visualizzazione delle riparazioni effettuate in precedenza, provviste di Nome cliente, Targa del mezzo e data di quando è stata effettuata.
-## Indice
-1. [Status del progetto](#status-del-progetto)
-2. [Descrizione](#descrizione)
-3. [Documentazione](#documentazione)
-4. [Tecnologie usate](#tecnologie-usate)
-5. [Architettura](#architettura)
-6. [Funzionamento](#funzionamento)
-7. [Struttura del progetto](#struttura-del-progetto)
-8. [Licenze](#licenze)
+## Index
+- [English](#English)
+  1. [Status del progetto](#status-del-progetto)
+  2. [Descrizione](#descrizione)
+  3. [Documentazione](#documentazione)
+  4. [Tecnologie usate](#tecnologie-usate)
+  5. [Architettura](#architettura)
+  6. [Funzionamento](#funzionamento)
+  7. [Struttura del progetto](#struttura-del-progetto)
+  8. [Licenze](#licenze)
+  
+- [Italiano](#Italiano)
+  1. [Status del progetto](#status-del-progetto)
+  2. [Descrizione](#descrizione)
+  3. [Documentazione](#documentazione)
+  4. [Tecnologie usate](#tecnologie-usate)
+  5. [Architettura](#architettura)
+  6. [Funzionamento](#funzionamento)
+  7. [Struttura del progetto](#struttura-del-progetto)
+  8. [Licenze](#licenze)
 ## Status del progetto
 In fase di completamento
 
